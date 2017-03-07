@@ -1,4 +1,5 @@
 # digits_recognition
+(based on https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ```{.python .input  n=82}
 import random
